@@ -71,7 +71,7 @@ The client connects to the cloud server, completes the ML-KEM-768 handshake, the
 
 ### Cloud Server
 
-Start `server.py` (maintained by Pragya) before bringing up the edge client. Ensure PostgreSQL is running and accessible via TCP (`localhost:5432`).
+Start `server.py` before bringing up the edge client. Ensure PostgreSQL is running and accessible via TCP (`localhost:5432`).
 
 ---
 
